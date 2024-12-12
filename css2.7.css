@@ -37,7 +37,7 @@
 
 
 #main_container{
-    
+    margin-top: 56px;
 }
 
 #design {
@@ -81,4 +81,72 @@
 #second {
     display: inline-block;
     
+}
+#divsecond {
+    margin-top: 56px;
+}
+#imgsecond {
+    max-width: 600px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 56px;
+    border-radius: 16px;
+}
+#textsecond {
+    display: inline-block; 
+    max-width: 584px;
+    width: 100%;
+    vertical-align: middle;
+    padding: 70px;
+    padding: 0 56px;
+}
+#products {
+    color: #6941C6;
+    font-size: 14px;
+    color: #6941C6;
+}
+#titlethird {
+    color: #181D27;
+    font-size: 24px;
+    display: inline-block;
+}
+#paragraphsecond {
+    color: #535862;
+}
+#informationsecond {
+    margin-top: 24px;
+}
+#third {
+    display: inline-block;
+}
+#divthird {
+    margin-top: 56px;
+}
+#imgthird {
+    max-width: 592px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 56px;
+    border-radius: 16px;
+}
+#customer {
+    color: #6941C6;
+    font-size: 14px;
+    color: #6941C6;
+}
+#podcast {
+    color: #181D27;
+    font-size: 24px;
+    display: inline-block;
+}
+#paragraphthird {
+    color: #535862;
+}
+#informationthird {
+    margin-top: 24px;
+}
+#four {
+    display: inline-block;
 }
